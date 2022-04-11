@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joandersonalvesmartins&layout=compact&langs_count=8&show_icons=true&theme=merko)](https://github.com/joandersonalvesmartins/github-readme-stats)
 
 
-Apaixonado por tecnologias, educação e por mudar a vida das pessoas através da programação.
+## Apaixonado por tecnologias, educação e por mudar a vida das pessoas através da programação.
 
 ![Snake animation](https://github.com/joandersonalvesmartins/joandersonalvesmartins/blob/output/github-contribution-grid-snake.svg)
 
