@@ -28,6 +28,7 @@
 
 ![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=sqlite&logoColor=1572B6)
 ![Node](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
 ![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer&logoColor=f6513f)
