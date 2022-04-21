@@ -23,12 +23,14 @@
 
 <div>
 <h2> ⚙️ &nbsp; Skill's Back End </h2>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="50px" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="50px" width="50px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML 5" height="50px" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS 3" height="50px" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java Script" height="50px" width="40px" />          
+
+![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
+![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
+![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=sqlite&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer&logoColor=f6513f)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)       
 
 </div></br>
 
