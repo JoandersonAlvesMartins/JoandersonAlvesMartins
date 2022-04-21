@@ -44,6 +44,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React.JS-333333?style=flat&logo=react)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=E535AB)
+![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=ff0000)
 ![Quasar](https://img.shields.io/badge/-Quasar-333333?style=flat&logo=quasar&logoColor=1572B6)
 ![C#](https://img.shields.io/badge/-Csharp.Net-333333?style=flat&logo=.net&logoColor=E535AB)
