@@ -1,11 +1,13 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Olá! Eu sou o Joandersom Alves Martins, Software Developer Java-Jr | PL/SQL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-- 🗺️ Moro em Recife/PE, Brazil.
+- 🗺️ &nbsp; Moro em Recife/PE, Brazil.
+- 👩‍👧‍👦 &nbsp; Sou extremamente feliz em meu casamento com a sra. Débora, pai de um casal de filhos, amo 💚 &nbsp; muito minha família.
 
-- 🚀 Atualmente, tenho como foco principal, evoluir como full stack developer, estando pronto para atuar nas áreas de desenvolvimento Front End, Back End, Mobile, Tester-TDD e por que não Analista de Requisitos.
-- 💚 Conforme vou adquirindo experiência na área, venho alimentando uma velha paixão, a de compartilhar o conhecimento e ajudar as pessoas que querem trabalhar e viver da tecnológia.
-- Como pretendo fazer isso? Com o meu canal do youtube/coffeeweb.
+- 🚀 &nbsp; Atualmente, tenho como foco principal, evoluir como full stack developer, estando pronto para atuar nas áreas de desenvolvimento Front End, Back End, Mobile, Tester-TDD e por que não Analista de Requisitos.
+- 💚 &nbsp; Conforme vou adquirindo experiência na área, venho alimentando uma velha paixão, a de compartilhar o conhecimento e ajudar as pessoas que querem trabalhar e viver da tecnológia.
+- 🤔 &nbsp;Como pretendo fazer isso?
+- 😉 &nbsp; Com o meu canal do youtube/coffeeweb.
 
 <div align="center">
 <h1> Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h1>
@@ -19,7 +21,7 @@
 </div></br>
 
 <div align="center" style="display: inline_block"> 
-<h2> 📝 &nbsp; Estudando e Densenvolvendo Minhas Skill's</h2> </br>
+<h2> 📝 &nbsp; Estudando e Densenvolvendo Minhas Skill's</h2>
 
 <div>
 <h2> ⚙️ &nbsp; Skill's Back End </h2>
@@ -27,7 +29,7 @@
 ![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
 ![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=sqlite&logoColor=1572B6)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Node](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
 ![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer&logoColor=f6513f)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)       
@@ -40,20 +42,25 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React.JS-333333?style=flat&logo=react)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=E535AB)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=ff0000)
+![Quasar](https://img.shields.io/badge/-Quasar-333333?style=flat&logo=quasar&logoColor=1572B6)
+![C#](https://img.shields.io/badge/-Csharp.Net-333333?style=flat&logo=.net&logoColor=E535AB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
+![Material Design](https://img.shields.io/badge/-MaterialDesign-333333?style=flat&logo=materialdesign&logoColor=E535AB)
+![Vue](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=vue.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
          
 </div>
 
 <div>
 <h2> 📱 &nbsp; Skill's Mobile </h2>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="50px" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="50px" width="70px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML 5" height="50px" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS 3" height="50px" width="60px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java Script" height="40px" width="40px" />          
+  
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=E535AB)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+  
 </div>
 
 <div> 
@@ -65,26 +72,14 @@
  
 </div>
 
-<div align="center"><br/>
+<div align="center">
 <h2>👨🏻‍💻 &nbsp;Um pouco mais sobre o meu perfil </h2>
  
 ![Joanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=joandersonalvesmartins&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joandersonalvesmartins&layout=compact&langs_count=8&show_icons=true&theme=merko)](https://github.com/joandersonalvesmartins/github-readme-stats)
 
-## 📝 Estudando 👨🏻‍💻 &nbsp;
-<div style="display: inline_block">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node Js" height="70px" width="80px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Js" height="50px" width="60px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue Js" height="50px" width="60px"/>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" alt="Kotlin" height="70px" width="80px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="50px" width="60px"/>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Android Studio" height="80px" width="90px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="70px" width="80px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" height="70px" width="80px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" height="70px" width="80px"/>  
-</div>
-</br>
-
+ <h2> Jogo da cobrinha 🐍 &nbsp;com meus Commit's </h2>
+  
 ![Snake animation](https://github.com/joandersonalvesmartins/joandersonalvesmartins/blob/output/github-contribution-grid-snake.svg)
 
