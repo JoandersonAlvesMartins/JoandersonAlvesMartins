@@ -2,7 +2,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Olá! Eu sou o Joandersom Alves Martins, Software Developer Java-Jr | PL/SQL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 - 🗺️ &nbsp; Moro em Recife/PE, Brazil.
-- 👩‍👧‍👦 &nbsp; Sou extremamente feliz em meu casamento com a sra. Débora, pai de um casal de filhos, amo 💚 &nbsp; muito minha família.
+- 👩‍👧‍👦 &nbsp; Sou extremamente feliz em meu casamento com a sra. Débora, pai de um casal de filhos, amo 💚 &nbsp;muito minha família.
 
 - 🚀 &nbsp; Atualmente, tenho como foco principal, evoluir como full stack developer, estando pronto para atuar nas áreas de desenvolvimento Front End, Back End, Mobile, Tester-TDD e por que não Analista de Requisitos.
 - 💚 &nbsp; Conforme vou adquirindo experiência na área, venho alimentando uma velha paixão, a de compartilhar o conhecimento e ajudar as pessoas que querem trabalhar e viver da tecnológia.
