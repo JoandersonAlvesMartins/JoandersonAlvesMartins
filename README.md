@@ -11,15 +11,18 @@
 <h2> Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h2>
 <a href="#" ></a><img src="https://img.shields.io/website/http/monip.org.svg">
 <a href="https://www.instagram.com/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-@joanderson-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
-<a href="https://www.linkedin.com/in/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-Joanderson%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-Joanderson%20Martins-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 <a href="https://www.youtube.com/channel/UCYlcXMwp5CEoG22KxV4aqmQ/"><img src="https://img.shields.io/badge/-Coffee%20Web-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a>
-<a href="mailto:joandersonmartins2013@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:joandersonmartins2013@gmail.com/"><img src="https://img.shields.io/badge/joandersonmartins2013-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="#"><img src="https://img.shields.io/badge/Joanderson%20Martins-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() --> </br>
+<div align="center"><br/>
+ 
 ![Joanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=joandersonalvesmartins&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joandersonalvesmartins&layout=compact&langs_count=8&show_icons=true&theme=merko)](https://github.com/joandersonalvesmartins/github-readme-stats)
+</div>
 
 ## 🚀 Skills
 <div style="display: inline_block"> 
