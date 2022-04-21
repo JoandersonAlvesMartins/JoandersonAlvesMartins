@@ -16,7 +16,7 @@
 <a href="https://www.youtube.com/channel/UCYlcXMwp5CEoG22KxV4aqmQ/"><img src="https://img.shields.io/badge/-Coffee%20Web-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="mailto:joandersonmartins2013@gmail.com/"><img src="https://img.shields.io/badge/joandersonmartins2013-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5581985456283/"><img src="https://img.shields.io/badge/Joanderson%20Martins-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+</div></br>
 
 <div align="center" style="display: inline_block"> 
 <h2> 📝 &nbsp; Estudando e Densenvolvendo Minhas Skill's</h2> </br>
@@ -32,7 +32,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)       
 
-</div></br>
+</div>
 
 <div>
 <h2> 💻 &nbsp; Skill's Front End </h2>
@@ -44,7 +44,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
          
-</div></br>
+</div>
 
 <div>
 <h2> 📱 &nbsp; Skill's Mobile </h2>
@@ -54,20 +54,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML 5" height="50px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS 3" height="50px" width="60px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java Script" height="40px" width="40px" />          
-</div></br>
+</div>
 
 <div> 
 <h2> 🛠&nbsp; Skill's Tester TDD</h2>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="50px" width="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="50px" width="70px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML 5" height="50px" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS 3" height="50px" width="60px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java Script" height="40px" width="40px" />  
+  
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 </div>
  
-</div><br/>
+</div>
 
 <div align="center"><br/>
 <h2>👨🏻‍💻 &nbsp;Um pouco mais sobre o meu perfil </h2>
