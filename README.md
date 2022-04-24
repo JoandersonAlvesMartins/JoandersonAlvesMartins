@@ -10,7 +10,7 @@
 - 😉 &nbsp; Com o meu canal do youtube/coffeeweb.
 
 <div align="center">
-<h1> Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h1>
+<h1> Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="52px"></h1>
   
 <a href="#" ></a><img src="https://img.shields.io/website/http/monip.org.svg">
 <a href="https://www.instagram.com/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-@joanderson-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
