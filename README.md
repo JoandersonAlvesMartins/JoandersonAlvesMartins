@@ -1,5 +1,5 @@
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Olá! Eu sou o Joandersom Alves Martins, Software Developer Java-Jr | PL/SQL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px"> Olá! Eu sou o Joandersom Alves Martins, Software Developer Java-Jr | PL/SQL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">
 
 - 🗺️ &nbsp; Moro em Recife/PE, Brazil.
 - 👩‍👧‍👦 &nbsp; Sou extremamente feliz em meu casamento com a sra. Débora, pai de um casal de filhos, amo 💚 &nbsp;muito minha família.
