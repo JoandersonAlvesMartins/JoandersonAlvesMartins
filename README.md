@@ -76,7 +76,7 @@
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=joandersonalvesmartins&show_icons=true&theme=vision-friendly-dark" alt="JoandersonAlves stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joandersonalvesmartins&layout=compact&langs_count=8&show_icons=true&theme=vision-friendly-dark" alt="JoandersonAlves most languages"/>
-</p>
+<img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=joandersonalvesmartins&theme=dark" alt="JoandersonAlves" /> </p>
 
  <h2> Jogo da cobrinha 🐍 &nbsp;com meus Commit's </h2>
   
