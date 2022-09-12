@@ -23,7 +23,7 @@
 </div>
 
 <div> 
-<h2 align="center" > 📝 &nbsp; Estudando e Densenvolvendo Minhas Skill's </h2>
+<h2 align="center" > 📝 &nbsp; Densenvolvendo Minhas Habilidades </h2>
 
 <div>
 <div align="rigth">
