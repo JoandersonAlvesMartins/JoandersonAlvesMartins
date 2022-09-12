@@ -15,11 +15,11 @@
 <h1> Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="52px"></h1>
   
 <a href="#" ></a><img src="https://img.shields.io/website/http/monip.org.svg">
-<a href="https://www.instagram.com/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-@joanderson-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-Joanderson%20Martins-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/UCYlcXMwp5CEoG22KxV4aqmQ/"><img src="https://img.shields.io/badge/-Coffee%20Web-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="mailto:joandersonmartins2013@gmail.com/"><img src="https://img.shields.io/badge/joandersonmartins2013-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://api.whatsapp.com/send?phone=5581985456283/" target="_blank"><img src="https://img.shields.io/badge/Joanderson%20Martins-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCYlcXMwp5CEoG22KxV4aqmQ/"><img src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="mailto:joandersonmartins2013@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=5581985456283/" target="_blank"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 <div  align="center"> 
