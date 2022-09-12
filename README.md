@@ -22,18 +22,16 @@
 <a href="https://api.whatsapp.com/send?phone=5581985456283/"><img src="https://img.shields.io/badge/Joanderson%20Martins-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-<div> 
+<div  align="center"> 
 <h2 align="center" > 📝 &nbsp; Densenvolvendo Minhas Habilidades </h2>
 
 <div>
-<div align="rigth">
  <h2> ⚙️ &nbsp; Skill's Back End </h2>
  
 ![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-</br>
 ![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=sqlite&logoColor=1572B6)
 ![Node](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
@@ -41,7 +39,7 @@
 
 </div>
 
-<div align="center">
+<div>
 <h2> 💻 &nbsp; Skill's Front End </h2>
  
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -54,14 +52,13 @@
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=ff0000)
 ![Quasar](https://img.shields.io/badge/-Quasar-333333?style=flat&logo=quasar&logoColor=1572B6)
 ![C#](https://img.shields.io/badge/-Csharp.Net-333333?style=flat&logo=.net&logoColor=E535AB)
- <br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
 ![Material Design](https://img.shields.io/badge/-MaterialDesign-333333?style=flat&logo=materialdesign&logoColor=E535AB)
 ![Vue](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=vue.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 </div>
 
-<div align="right">
+<div>
 <h2> 📱 &nbsp; Skill's Mobile & Tester TDD </h2>
   
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=E535AB)
