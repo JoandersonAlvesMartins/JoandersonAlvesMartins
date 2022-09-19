@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCYlcXMwp5CEoG22KxV4aqmQ/"><img src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="mailto:joandersonmartins2013@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://api.whatsapp.com/send?1=pt_br&phone=5581985456283"></a>
+<a href="https://api.whatsapp.com/send?1=pt_br&phone=5581985456283" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"/></a>
 </div>
 
 <div  align="center"> 
