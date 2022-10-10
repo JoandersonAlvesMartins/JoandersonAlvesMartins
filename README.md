@@ -3,11 +3,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoandersonAlvesMartins&color=993399" alt="Profile views" /> </p>
 
+### Graduado desde 2021.1 em ADS Analise e Desenvolvimento de Sistemas pela FICR Faculdade Imaculada Conceição do Recife
+
 - 🗺️ &nbsp; Moro em Recife/PE, Brazil.
 - 👩‍👧‍👦 &nbsp; Sou extremamente feliz em meu casamento com a sra. Débora, pai de um casal de filhos, amo 💚 &nbsp;muito minha família.
 
-- 🚀 &nbsp; Atualmente, tenho como foco principal, evoluir como full stack developer, estando pronto para atuar nas áreas de desenvolvimento Front End, Back End, Mobile, Tester-TDD e por que não Analista de Requisitos.
-- 💚 &nbsp; Conforme vou adquirindo experiência na área, venho alimentando uma velha paixão, a de compartilhar o conhecimento e ajudar as pessoas que querem trabalhar e viver da tecnológia.
+### Meu Dia a Dia 🚀 &nbsp; 
+
+* Elaboração de Documentos como EF, DT, OT
+* EF - Expecificação Funcional: Documento que descreve de qual maneira visual será desenvolvida a solução que atenderá as nessecidades do cliente.
+* DT - Detalhamento Tecnico: Documento destinado a equipe de desenvolvimento, onde constará as alterações a serem feitas no banco, incluindo, nome da tabela e campos, tipo de dados que cada coluna receberá, entre outras ações de banco.
+* OT - Orientação de Testes: Documento que indica quais testes deveram ser execultados para validar a solução proposta ao cliente antes de envia-la ao mesmo.
+* Back End: Realizo implementações na base de dados guiado pela documentação criado.
+* Front End: Implemento no front, os elementos(Botões, Campos, Vew, Canvas e etc...) necessários para a solução proposta na documentação.
+* Reports (Jasper Studio) - Implementações/Desenvolvimento de relatórios em JAVA.
+* Reuniões diarias com o cliente, para acompanhamento da solução.
+
+### Possuo conhecimento e desenvolvo freelas nas seguintes tecnologias:
+
+#### Front End:
+* HTML5, CSS3, JS, VUEJS, REACTJS, BOOTSTRAP.
+#### Back End:
+* Oracle, SQL, PLSQL, NODEJS, SEQUELIZE.
+
+#### Estudando 💚 &nbsp;
+* TDD - Test Driver Developer - JEST
+* MOTION Design
+* Hacker - Segurança da Informação
+
+### Conforme vou adquirindo experiência, alimentando uma velha paixão, a de compartilhar o conhecimento e ajudar as pessoas que querem trabalhar e viver da tecnológia.
+
 - 🤔 &nbsp;Como pretendo fazer isso?
 - 😉 &nbsp; Com o meu canal do youtube/coffeeweb.
 
