@@ -1,6 +1,5 @@
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins, 🔥&nbsp; 
-FullStack | Software Developer Java | PL/SQL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">
+## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins, 🔥&nbsp; <br>FullStack | Software Developer Oracle | Java & PL/SQL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoandersonAlvesMartins&color=993399" alt="Profile views" /> </p>
 
