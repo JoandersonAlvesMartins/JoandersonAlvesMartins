@@ -5,7 +5,7 @@
 
 ### Graduado desde 2021.1 em ADS Analise e Desenvolvimento de Sistemas pela FICR Faculdade Imaculada Conceição do Recife
   
-- 🗺️ &nbsp; Moro em Recife/PE, Brazil.
+- 🗺️ &nbsp; Moro em Recife/PE, Brasil.
 - 👩‍👧‍👦 &nbsp; Sou extremamente feliz em meu casamento com a sra. Débora, pai de um casal de filhos, amo 💚 &nbsp;muito minha família.
 
 ### Meu Dia a Dia 🚀 &nbsp; 
@@ -14,7 +14,7 @@
 * EF - Expecificação Funcional: Documento que descreve de qual maneira visual será desenvolvida a solução que atenderá as nessecidades do cliente.
 * DT - Detalhamento Tecnico: Documento destinado a equipe de desenvolvimento, onde constará as alterações a serem feitas no banco, incluindo, nome da tabela e campos, tipo de dados que cada coluna receberá, entre outras ações de banco.
 * OT - Orientação de Testes: Documento que indica quais testes deveram ser execultados para validar a solução proposta ao cliente antes de envia-la ao mesmo.
-* Back End: Realizo implementações na base de dados guiado pela documentação criado.
+* Back End: Realizo implementações na base de dados guiado pela documentação criada pelo analista.
 * Front End: Implemento no front, os elementos(Botões, Campos, Vew, Canvas e etc...) necessários para a solução proposta na documentação.
 * Reports (Jasper Studio) - Implementações/Desenvolvimento de relatórios em JAVA.
 * Reuniões diarias com o cliente, para acompanhamento da solução.
