@@ -48,27 +48,27 @@ sempre buscando superar expectativas e garantir a satisfação do clientes.
 <a href="https://api.whatsapp.com/send?1=pt_br&phone=5581985456283" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-00b53e?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"/></a>
 </div>
 
-<div  align="center"> 
-<h2 align="center" > 📝 &nbsp; Desenvolvendo Minhas Habilidades </h2>
-
-<div>
+<div align="center">
  <h2> ⚙️ &nbsp; Pleno Developer || Full Stack </h2>
- 
+  
 ![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
-![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
 ![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=sqlite&logoColor=1572B6)
-![Node JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)    
+![Node JS](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)   
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React JS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next JS](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
+![JAVA](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ff0000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React JS](https://img.shields.io/badge/-React.JS-333333?style=flat&logo=react)
-![Next JS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next)
-![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
+![Recharts](https://img.shields.io/badge/-Recharts-333333?style=flat&logo=recharts)
 ![Material Design](https://img.shields.io/badge/-MaterialDesign-333333?style=flat&logo=materialdesign&logoColor=E535AB)
-![Vue JS](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=vue.js)
 
-<div>
+</div>
+
+<div align="center">
 <h2> 📱 &nbsp; Skill's Mobile & Tester TDD </h2>
   
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=E535AB)
@@ -78,16 +78,9 @@ sempre buscando superar expectativas e garantir a satisfação do clientes.
 </div>
 
 <div align="center">
-<h2>👨🏻‍💻 &nbsp;Um pouco mais sobre o meu perfil </h2>
-
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=joandersonalvesmartins&show_icons=true&theme=vision-friendly-dark" alt="JoandersonAlves stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joandersonalvesmartins&layout=compact&langs_count=8&show_icons=true&theme=vision-friendly-dark" alt="JoandersonAlves most languages"/>
-<img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=joandersonalvesmartins&theme=dark" alt="JoandersonAlves" />
-<img width="730em" src="https://activity-graph.herokuapp.com/graph?username=joandersonalvesmartins&theme=react-dark&bg_color=20232a&hide_border=true"/>
-  </p>
- <h2> Jogo da cobrinha 🐍 &nbsp;com meus Commit's </h2>
-  
-![Snake animation](https://github.com/joandersonalvesmartins/joandersonalvesmartins/blob/output/github-contribution-grid-snake.svg)
-
+<img width="630em" src="https://github-readme-stats.vercel.app/api?username=joandersonalvesmartins&show_icons=true&theme=vision-friendly-dark" alt="JoandersonAlves stats"/>
+  <br>
+<img width="630em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joandersonalvesmartins&layout=compact&langs_count=8&show_icons=true&theme=vision-friendly-dark" alt="JoandersonAlves most languages"/>
+  <br>
+<img width="630em" src="https://github-readme-streak-stats.herokuapp.com/?user=joandersonalvesmartins&theme=dark" alt="JoandersonAlves"/>  
 </div>
