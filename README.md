@@ -56,23 +56,17 @@ sempre buscando superar expectativas e garantir a satisfação do clientes.
  
 ![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=sqlite&logoColor=1572B6)
-![Node](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
-![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer&logoColor=f6513f)     
+![Node JS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)    
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React.JS-333333?style=flat&logo=react)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=E535AB)
+![React JS](https://img.shields.io/badge/-React.JS-333333?style=flat&logo=react)
+![Next JS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next)
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=ff0000)
-![Quasar](https://img.shields.io/badge/-Quasar-333333?style=flat&logo=quasar&logoColor=1572B6)
-![C#](https://img.shields.io/badge/-Csharp.Net-333333?style=flat&logo=.net&logoColor=E535AB)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
 ![Material Design](https://img.shields.io/badge/-MaterialDesign-333333?style=flat&logo=materialdesign&logoColor=E535AB)
-![Vue](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=vue.js)
+![Vue JS](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=vue.js)
 
 <div>
 <h2> 📱 &nbsp; Skill's Mobile & Tester TDD </h2>
