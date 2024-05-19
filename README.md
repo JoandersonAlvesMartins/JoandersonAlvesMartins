@@ -1,40 +1,41 @@
 
-## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins, 🔥&nbsp; <br>FullStack | Software Developer Oracle | Java & PL/SQL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px"> </div>
+## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins, 🔥&nbsp; <br>Pleno Developer || Java - Oracle - SQL - PL/SQL - Spring Boot - React JS - Node JS - Tailwind CSS - TypeScript - Recharts Dasheboard || Full Stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoandersonAlvesMartins&color=993399" alt="Profile views" /> </p>
 
 ### Graduado desde 2021.1 em ADS Analise e Desenvolvimento de Sistemas pela FICR Faculdade Imaculada Conceição do Recife
   
 - 🗺️ &nbsp; Moro em Recife/PE, Brasil.
-- 👩‍👧‍👦 &nbsp; Sou extremamente feliz em meu casamento com a sra. Débora, pai de um casal de filhos, amo 💚 &nbsp;muito minha família.
+- 👩‍👧‍👦 &nbsp; Sou extremamente apaixonado pelos meus filhos 💚 &nbsp;muito minha família.
 
 ### Meu Dia a Dia 🚀 &nbsp; 
 
-* Elaboração de Documentos como EF, DT, OT
-* EF - Expecificação Funcional: Documento que descreve de qual maneira visual será desenvolvida a solução que atenderá as nessecidades do cliente.
-* DT - Detalhamento Tecnico: Documento destinado a equipe de desenvolvimento, onde constará as alterações a serem feitas no banco, incluindo, nome da tabela e campos, tipo de dados que cada coluna receberá, entre outras ações de banco.
-* OT - Orientação de Testes: Documento que indica quais testes deveram ser execultados para validar a solução proposta ao cliente antes de envia-la ao mesmo.
-* Back End: Realizo implementações na base de dados guiado pela documentação criada pelo analista.
-* Front End: Implemento no front, os elementos(Botões, Campos, Vew, Canvas e etc...) necessários para a solução proposta na documentação.
-* Reports (Jasper Studio) - Implementações/Desenvolvimento de relatórios em JAVA.
-* Reuniões diarias com o cliente, para acompanhamento da solução.
+* Com mais de 3 anos de experiência como Fullstack Developer na Tascom Tecnologia, 
+trago habilidades sólidas em desenvolvimento Java, Oracle SQL/PL SQL, PostgresSql, React JS, TypeScript e Node JS, TailwindCSS.
+* Atuo tanto para clientes, como o MV Sistemas, quanto em projetos internos, como o T+PAINEIS.
+* Meu trabalho envolve colaboração próxima com equipes e clientes, participando de reuniões para entender e aprimorar soluções propostas,
+garantindo entregas alinhadas com as necessidades identificadas.
+* Utilizo ferramentas como Doc MV para elaborar documentos funcionais, técnicos e de orientação de testes, garantindo a qualidade e a aderência das soluções.
+* No desenvolvimento, utilizo Java no ambiente Eclipse fornecido pela MV Sistemas, e SQL-TOOLS para testar querys em ambientes controlados.
+* Além disso, tenho experiência no desenvolvimento de relatórios com Jasper Studio, Report Design.
+* No período da tarde e início da noite, concentro-me nas demandas internas da Tascom Tecnologia em Saúde, onde desenvolvo nossos Paineis/Dashboard Produto 'T+PAINEIS'.
+* Aqui, utilizo uma variedade de tecnologias, incluindo Oracle SQL/PL/SQL, PostgreSQL, React JS, TypeScript, Node JS, TailwindCSS, Recharts Dashboard.
+* Minhas competências incluem desenvolvimento de relatórios, Node.js, GitLab, Git, TailwindCSS, TypeScript, PostgreSQL, Recharts Dashboard, Oracle SQL, PL/SQL, Eclipse,
+Framework-SOUL/MV, Insônia, Figma e correções de bugs.
+* Estou sempre buscando aprender e me desenvolver, trazendo soluções inovadoras e eficientes para os projetos em que me envolvo.
 
-### Possuo conhecimento e desenvolvo freelas nas seguintes tecnologias:
+### Sou apaixonado por tecnologia e comprometido em entregar resultados de alta qualidade.
 
-#### Front End:
-* HTML5, CSS3, JS, VUEJS, REACTJS, BOOTSTRAP.
-#### Back End:
-* Oracle, SQL, PLSQL, NODEJS, SEQUELIZE.
+### Soft Skills e Objetivo 💚 &nbsp;
+Demonstro habilidades sólidas de comunicação e colaboração, essenciais para trabalhar efetivamente em equipe e entender as necessidades dos clientes.
+Sou proativo e comprometido, buscando constantemente aprender e melhorar minhas habilidades técnicas. 
+eu objetivo é continuar crescendo como desenvolvedor Fullstack, contribuindo para projetos desafiadores e inovadores, 
+enquanto continuo aprimorando minhas habilidades técnicas e de comunicação.
 
-#### Estudando 💚 &nbsp;
-* TDD - Test Driver Developer - JEST
-* MOTION Design
-* Hacker - Segurança da Informação
-
-### Conforme vou adquirindo experiência, alimentando uma velha paixão, a de compartilhar o conhecimento e ajudar as pessoas que querem trabalhar e viver da tecnológia.
-
-- 🤔 &nbsp;Como pretendo fazer isso?
-- 😉 &nbsp; Com o meu canal do youtube/coffeeweb.
+### Serviços 💚 &nbsp;
+Ofereço serviços de desenvolvimento Fullstack, Dashboard, Relatórios, utilizando tecnologias como Java, Oracle SQL/PL SQL, React JS, TypeScript e Node JS.
+Especializado em atender às necessidades dos clientes, tanto em projetos externos quanto internos. Comprometido em entregar soluções de alta qualidade e inovação, 
+sempre buscando superar expectativas e garantir a satisfação do clientes.
 
 <div align="center">
 <h1> Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="52px"></h1>
@@ -51,7 +52,7 @@
 <h2 align="center" > 📝 &nbsp; Desenvolvendo Minhas Habilidades </h2>
 
 <div>
- <h2> ⚙️ &nbsp; Skill's Back End </h2>
+ <h2> ⚙️ &nbsp; Pleno Developer || Full Stack </h2>
  
 ![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
@@ -60,17 +61,10 @@
 ![Node](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
 ![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer&logoColor=f6513f)     
-
-</div>
-
-<div>
-<h2> 💻 &nbsp; Skill's Front End </h2>
- 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React.JS-333333?style=flat&logo=react)
- <br>
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=E535AB)
 ![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=JAVA&logoColor=ff0000)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=ff0000)
@@ -79,7 +73,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
 ![Material Design](https://img.shields.io/badge/-MaterialDesign-333333?style=flat&logo=materialdesign&logoColor=E535AB)
 ![Vue](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=vue.js)
-</div>
 
 <div>
 <h2> 📱 &nbsp; Skill's Mobile & Tester TDD </h2>
