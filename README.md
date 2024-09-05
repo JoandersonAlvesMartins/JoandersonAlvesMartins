@@ -1,5 +1,5 @@
 
-## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins, 🔥&nbsp; <br>Pleno Developer || Java - Oracle - SQL - PL/SQL - Spring Boot - React JS - Node JS - Tailwind CSS - TypeScript - Recharts Dasheboard || Full Stack <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px"> </div>
+## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins, 🔥&nbsp; <br>Analista Desenvolvedor Java - Oracle - SQL - PL/SQL - Spring boot - Security - JSF - Data - MVC - JPA - Recharts Dashboard - Painel <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoandersonAlvesMartins&color=993399" alt="Profile views" /> </p>
 
