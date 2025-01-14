@@ -1,36 +1,43 @@
 
-## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">  <br>Analista Desenvolvedor Java - Oracle - SQL - PL/SQL - <br> Spring boot - Security - JSF - Data - MVC - JPA 🔥&nbsp; </div>
+## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">  <br>Analista Desenvolvedor Java, SQL, PL-SQL nível JR/PL🔥&nbsp; </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoandersonAlvesMartins&color=993399" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoandersonAlvesMartins&color=993399" alt="Profile views" /> 
+  Atenção, esse repositório esta em constante modificação, de modo que a qualquer momento, você verá novas atualizações.
+</p>
 
 ### Graduado desde 2021.1 em ADS Analise e Desenvolvimento de Sistemas pela FICR Faculdade Imaculada Conceição do Recife
   
 - 🗺️ &nbsp; Moro em Recife/PE, Brasil.
 - 👩‍👧‍👦 &nbsp; Sou extremamente apaixonado pelos meus filhos 💚 &nbsp;muito minha família.
 
-### Meu Dia a Dia 🚀 &nbsp; 
+### Meu Dia a Dia 🚀&nbsp;Soft Skills e Objetivo 💚 &nbsp;
 
-* Com mais de 3 anos de experiência como Fullstack Developer na Tascom Tecnologia, 
-trago habilidades sólidas em desenvolvimento Java, Oracle SQL/PL SQL, PostgresSql, React JS, TypeScript e Node JS, TailwindCSS.
-* Atuo tanto para clientes, como o MV Sistemas, quanto em projetos internos, como o T+PAINEIS.
-* Meu trabalho envolve colaboração próxima com equipes e clientes, participando de reuniões para entender e aprimorar soluções propostas,
-garantindo entregas alinhadas com as necessidades identificadas.
-* Utilizo ferramentas como Doc MV para elaborar documentos funcionais, técnicos e de orientação de testes, garantindo a qualidade e a aderência das soluções.
-* No desenvolvimento, utilizo Java no ambiente Eclipse fornecido pela MV Sistemas, e SQL-TOOLS para testar querys em ambientes controlados.
-* Além disso, tenho experiência no desenvolvimento de relatórios com Jasper Studio, Report Design.
-* No período da tarde e início da noite, concentro-me nas demandas internas da Tascom Tecnologia em Saúde, onde desenvolvo nossos Paineis/Dashboard Produto 'T+PAINEIS'.
-* Aqui, utilizo uma variedade de tecnologias, incluindo Oracle SQL/PL/SQL, PostgreSQL, React JS, TypeScript, Node JS, TailwindCSS, Recharts Dashboard.
-* Minhas competências incluem desenvolvimento de relatórios, Node.js, GitLab, Git, TailwindCSS, TypeScript, PostgreSQL, Recharts Dashboard, Oracle SQL, PL/SQL, Eclipse,
-Framework-SOUL/MV, Insônia, Figma e correções de bugs.
-* Estou sempre buscando aprender e me desenvolver, trazendo soluções inovadoras e eficientes para os projetos em que me envolvo.
+3 anos + de experiência na área hospitalar como Dev.Java, SQL, PL-SQL nível JR/PL.
+Trago habilidades sólidas em desenvolvimento, implementação, construindo relatórios, elaborando documentação EF, DT e OT.
+Meu dia começa com reunião, dayle de acompanhamento de progresso diário realizada pelo cliente.
+em seguida...
+Atender chamados de suporte técnico para as faetures e correções de bugs e/ou elaborar relatórios solicitado pelo cliente(Painel de chamados onde encontrasse listados as solicitações emergentes do cliente).
+Implementar solução.
+1º escrever Script de consulta (SQL, PL-SQL).
+2º validar Script em ferramenta desenvolvido pelo cliente que verifica os padrões seguidos pelo mesmo para desenvolvimento.
+3º desenvolver o front end em java com base no script de consulta já implementado no banco de teste usando o padrão de desenvolvimento(Model-View-Controller).
+4º teste de mesa.
+5º teste de aceitação realizado com o cliente.
+6º merge
+Após merge aceito e validador pela equipe de devops do cliente, seguimos para o próximo chamado.
+tecnologias do dia a dia
+Java (XML-CSS) - FRONT END
+SQL ORACLE
+PL-SQL ORACLE
+Report - Implementar Relatórios
+JIRA - Apontamento de horas e detalhamento das atividades diárias
+DOC - Elaboração dos documentos EF, DT, OT, todos linkados a feature criada no gitlab.
+EF: Especificação Funcional
+DT: Detalhamento Técnico
+OT: Orientação de Teste
+GIT: Para versionamento de código
 
 ### Sou apaixonado por tecnologia e comprometido em entregar resultados de alta qualidade.
-
-### Soft Skills e Objetivo 💚 &nbsp;
-Demonstro habilidades sólidas de comunicação e colaboração, essenciais para trabalhar efetivamente em equipe e entender as necessidades dos clientes.
-Sou proativo e comprometido, buscando constantemente aprender e melhorar minhas habilidades técnicas. 
-eu objetivo é continuar crescendo como desenvolvedor Fullstack, contribuindo para projetos desafiadores e inovadores, 
-enquanto continuo aprimorando minhas habilidades técnicas e de comunicação.
 
 ### Serviços 💚 &nbsp;
 Ofereço serviços de desenvolvimento Fullstack, Dashboard, Relatórios, utilizando tecnologias como Java, Oracle SQL/PL SQL, React JS, TypeScript e Node JS.
@@ -49,7 +56,7 @@ sempre buscando superar expectativas e garantir a satisfação do clientes.
 </div>
 
 <div align="center">
- <h2> ⚙️ &nbsp; Pleno Developer || Full Stack </h2>
+ <h2> ⚙️ &nbsp; Trago habilidades nas tecnologias abaixo </h2>
   
 ![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
 ![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=sqlite&logoColor=1572B6)
@@ -69,18 +76,7 @@ sempre buscando superar expectativas e garantir a satisfação do clientes.
 </div>
 
 <div align="center">
-<h2> 📱 &nbsp; Skill's Mobile & Tester TDD </h2>
-  
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=E535AB)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-  
-</div>
-
-<div align="center">
 <img width="630em" src="https://github-readme-stats.vercel.app/api?username=joandersonalvesmartins&show_icons=true&theme=vision-friendly-dark" alt="JoandersonAlves stats"/>
   <br>
 <img width="630em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joandersonalvesmartins&layout=compact&langs_count=8&show_icons=true&theme=vision-friendly-dark" alt="JoandersonAlves most languages"/>
-  <br>
-<img width="630em" src="https://github-readme-streak-stats.herokuapp.com/?user=joandersonalvesmartins&theme=dark" alt="JoandersonAlves"/>  
 </div>
