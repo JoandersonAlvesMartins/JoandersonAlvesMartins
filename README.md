@@ -2,7 +2,7 @@
 ## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px">  <br>Analista Desenvolvedor Java, SQL, PL-SQL nível JR/PL🔥&nbsp; </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoandersonAlvesMartins&color=993399" alt="Profile views" /> 
-  Atenção, esse repositório esta em constante modificação, de modo que a qualquer momento, você verá novas atualizações.
+  <marquee>Atenção, esse repositório esta em constante modificação, de modo que a qualquer momento, você verá novas atualizações.</marquee>
 </p>
 
 ### Graduado desde 2021.1 em ADS Analise e Desenvolvimento de Sistemas pela FICR Faculdade Imaculada Conceição do Recife
