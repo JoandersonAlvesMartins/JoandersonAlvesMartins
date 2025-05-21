@@ -7,7 +7,7 @@
 - 🗺️ &nbsp; Moro em Recife/PE, Brasil.
 - 👩‍👧‍👦 &nbsp; Sou extremamente apaixonado pelos meus filhos 💚 &nbsp;muito minha família.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🚀&nbsp;Soft Skills e Objetivo 💚 &nbsp;
 
@@ -29,6 +29,8 @@ Ao longo da minha trajetória profissional, participei de projetos relevantes no
 | Criação de dashboards analíticos                    |
 | Geração de relatórios gerenciais                    |
 
+<div align="center">
+
 ![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=Java&logoColor=ff0000)
 ![PL](https://img.shields.io/badge/PL%2FSQL-333333?style=flat&logo=oracle&logoColor=FF0000)
@@ -42,6 +44,8 @@ Ao longo da minha trajetória profissional, participei de projetos relevantes no
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Material Design](https://img.shields.io/badge/-MaterialDesign-333333?style=flat&logo=materialdesign&logoColor=E535AB)
+
+</div>
 
 ##### 💼 Experiências Recentes:
 
@@ -74,25 +78,6 @@ Estou em busca de novos desafios onde eu possa aplicar meu conhecimento técnico
 <a href="https://www.youtube.com/channel/UCYlcXMwp5CEoG22KxV4aqmQ/"><img src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="mailto:joandersonmartins2013@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?1=pt_br&phone=5581999221962" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-00b53e?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"/></a>
-</div>
-
-<div align="center">
- <h2> 🧠 Principais Competências Técnicas </h2>
-  
-![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=Java&logoColor=ff0000)
-![PL](https://img.shields.io/badge/PL%2FSQL-333333?style=flat&logo=oracle&logoColor=FF0000)
-![Recharts](https://img.shields.io/badge/-Recharts-333333?style=flat&logo=recharts)
-![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=sqlite&logoColor=1572B6)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)   
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React JS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Material Design](https://img.shields.io/badge/-MaterialDesign-333333?style=flat&logo=materialdesign&logoColor=E535AB)
-
 </div>
 
 <div align="center">
