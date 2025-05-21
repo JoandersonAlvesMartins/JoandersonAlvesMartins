@@ -60,6 +60,8 @@ Customizações de front-end com React.js no produto T+SAÚDE
 
 Estou em busca de novos desafios onde eu possa aplicar meu conhecimento técnico, colaborar com equipes de alto desempenho e continuar evoluindo como profissional na área de tecnologia.
 
+<div align="center">
+
 | Serviços 💚 &nbsp;                                  |
 | --------------------------------------------------- |
 | Levantamento e análise de requisitos                |
@@ -69,7 +71,6 @@ Estou em busca de novos desafios onde eu possa aplicar meu conhecimento técnico
 | Criação de dashboards analíticos                    |
 | Geração de relatórios gerenciais                    |
 
-<div align="center">
 <h1> Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="52px"></h1>
   
 <a href="#" ></a><img src="https://img.shields.io/website/http/monip.org.svg">
