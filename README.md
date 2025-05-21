@@ -29,6 +29,20 @@ Ao longo da minha trajetória profissional, participei de projetos relevantes no
 | Criação de dashboards analíticos                    |
 | Geração de relatórios gerenciais                    |
 
+![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=Java&logoColor=ff0000)
+![PL](https://img.shields.io/badge/PL%2FSQL-333333?style=flat&logo=oracle&logoColor=FF0000)
+![Recharts](https://img.shields.io/badge/-Recharts-333333?style=flat&logo=recharts)
+![SqLite](https://img.shields.io/badge/-SqLite-333333?style=flat&logo=sqlite&logoColor=1572B6)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React JS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Material Design](https://img.shields.io/badge/-MaterialDesign-333333?style=flat&logo=materialdesign&logoColor=E535AB)
+
 ##### 💼 Experiências Recentes:
 
 No meu último cargo como Desenvolvedor Java Back-End, contribuí diretamente para o alcance de metas e resultados da equipe e da empresa.
