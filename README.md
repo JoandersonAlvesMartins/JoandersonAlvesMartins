@@ -7,7 +7,7 @@
 - 🗺️ &nbsp; Moro em Recife/PE, Brasil.
 - 👩‍👧‍👦 &nbsp; Sou extremamente apaixonado pelos meus filhos 💚 &nbsp;muito minha família.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🚀&nbsp;Soft Skills e Objetivo 💚 &nbsp;
 
@@ -15,6 +15,8 @@ Desenvolvedor Back-End Java
 Focado em resultados, entregas de alto padrão e excelência.
 Atuo como desenvolvedor Java back-end desde maio de 2021, com foco em resultados, entregas de alto padrão e excelência técnica.
 Ao longo da minha trajetória profissional, participei de projetos relevantes no setor da saúde, como MV Hospitalar, T+SAÚDE e T+PAINEIS, onde desenvolvi habilidades técnicas e funcionais importantes.
+
+<div align="center">
 
 | 🧠 Principais Competências Técnicas:                |
 | --------------------------------------------------- |
@@ -28,8 +30,6 @@ Ao longo da minha trajetória profissional, participei de projetos relevantes no
 | Desenvolvimento web com Java e React.js             |
 | Criação de dashboards analíticos                    |
 | Geração de relatórios gerenciais                    |
-
-<div align="center">
 
 ![ORACLE](https://img.shields.io/badge/-ORACLE-333333?style=flat&logo=ORACLE&logoColor=ff0000)
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=Java&logoColor=ff0000)
