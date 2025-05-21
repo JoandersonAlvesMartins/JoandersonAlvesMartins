@@ -47,7 +47,7 @@ Ao longo da minha trajetória profissional, participei de projetos relevantes no
 
 </div>
 
-##### 💼 Experiências Recentes:
+### 💼 Experiências Recentes:
 
 No meu último cargo como Desenvolvedor Java Back-End, contribuí diretamente para o alcance de metas e resultados da equipe e da empresa.
 Trabalhei em um time colaborativo, unido e engajado, essencial para o sucesso dos projetos.
@@ -56,7 +56,7 @@ Implementações em Java e PL/SQL, com desenvolvimento de relatórios gerenciais
 Desenvolvimento de dashboards analíticos utilizando JavaScript, React.js e a biblioteca gráfica Highcharts no sistema T+PAINEIS
 Customizações de front-end com React.js no produto T+SAÚDE
 
-##### 🔎 Considerações Finais:
+### 🔎 Considerações Finais:
 
 Estou em busca de novos desafios onde eu possa aplicar meu conhecimento técnico, colaborar com equipes de alto desempenho e continuar evoluindo como profissional na área de tecnologia.
 
