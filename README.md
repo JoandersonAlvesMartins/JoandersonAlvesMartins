@@ -1,6 +1,12 @@
 ## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px"> <br>Analista Desenvolvedor Back-end Java, Spring Boot, PL-SQL nível JR/PL🔥&nbsp; </div>
 
 <img src="https://komarev.com/ghpvc/?username=JoandersonAlvesMartins&color=993399" alt="Profile views" />
+<a href="#" ></a><img src="https://img.shields.io/website/http/monip.org.svg">
+<a href="https://www.instagram.com/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCYlcXMwp5CEoG22KxV4aqmQ/"><img src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="mailto:joandersonmartins2013@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?1=pt_br&phone=5581999221962" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-00b53e?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"/></a>
 
 ### Graduado desde 2021.1 em ADS Analise e Desenvolvimento de Sistemas pela FICR Faculdade Imaculada Conceição do Recife
 
@@ -73,13 +79,6 @@ Estou em busca de novos desafios onde eu possa aplicar meu conhecimento técnico
 | Geração de relatórios gerenciais                    |
 
 <h1> Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="52px"></h1>
-  
-<a href="#" ></a><img src="https://img.shields.io/website/http/monip.org.svg">
-<a href="https://www.instagram.com/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joandersonalvesmartins/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/channel/UCYlcXMwp5CEoG22KxV4aqmQ/"><img src="https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="mailto:joandersonmartins2013@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://api.whatsapp.com/send?1=pt_br&phone=5581999221962" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-00b53e?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"/></a>
 </div>
 
 <div align="center">
