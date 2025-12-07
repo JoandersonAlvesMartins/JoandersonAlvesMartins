@@ -1,4 +1,4 @@
-## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px"> <br>Analista Desenvolvedor Back-end Java, Spring Boot, PL-SQL nível JR/PL🔥&nbsp; </div>
+## <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px"> Olá! Eu sou o Joandersom Alves Martins,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px" height="24px"> <br>Analista Desenvolvedor Back-end Java, Spring Boot, PL-SQL nível PL/SR🔥&nbsp; </div>
 
 <div align="center">
 <h1> Conecte-se comigo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="52px" width="100"></h1>
@@ -83,10 +83,4 @@ Estou em busca de novos desafios onde eu possa aplicar meu conhecimento técnico
 | Desenvolvimento web com Java e React.js             |
 | Criação de dashboards analíticos                    |
 | Geração de relatórios gerenciais                    |
-</div>
-
-<div align="center">
-<img width="630em" src="https://github-readme-stats.vercel.app/api?username=joandersonalvesmartins&show_icons=true&theme=vision-friendly-dark" alt="JoandersonAlves stats"/>
-  <br>
-<img width="630em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joandersonalvesmartins&layout=compact&langs_count=8&show_icons=true&theme=vision-friendly-dark" alt="JoandersonAlves most languages"/>
 </div>
